@@ -1,0 +1,1 @@
+Abrir jupyter.org para generar al phyton.
